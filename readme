@@ -1,0 +1,6 @@
+
+This is the beginning of a simple slideshow using CSS3 transitions with a jQuery fallback for browsers that are lame.
+
+Goals include responsive resizing and pulling image paths from a JSON source.
+
+To try it, just load index.html in a browser.
